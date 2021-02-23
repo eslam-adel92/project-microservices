@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="eslam2017/project-microservices:latest"
+dockerpath="eslam2017/project-microservices"
 
 # Step 2:  
 # Authenticate & tag
