@@ -1,4 +1,4 @@
-[![Udacity](https://circleci.com/gh/Udacity/project-microservices.svg?style=shield)](https://app.circleci.com/pipelines/github/eslam-adel92/project-microservices)
+[![CircleCI](https://circleci.com/gh/eslam-adel92/project-microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/eslam-adel92/project-microservices)
 
 
 ### Project Tasks
