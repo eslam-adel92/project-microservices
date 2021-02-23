@@ -1,5 +1,5 @@
-<include a CircleCI status badge, here>
 [![Udacity](https://circleci.com/gh/udacity/project-microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/eslam-adel92/project-microservices)
+
 
 ### Project Tasks
 
